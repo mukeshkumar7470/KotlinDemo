@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">14sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">14sp</dimen>
+    <dimen name="design_bottom_navigation_height" tools:override="true">64dp</dimen>
+    <dimen name="design_bottom_navigation_icon_size">20dp</dimen>
+
+    <dimen name="dp_56">56dp</dimen>
+    <dimen name="dp_120">120dp</dimen>
+
+    <dimen name="dp_64">64dp</dimen>
+    <dimen name="dp_72">72dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="dp_116">116dp</dimen>
+    <dimen name="dp_80">80dp</dimen>
+    <dimen name="dp_136">136dp</dimen>
+    <dimen name="dp_144">144dp</dimen>
+    <dimen name="dp_128">128dp</dimen>
+    <dimen name="dp_96">96dp</dimen>
+    <dimen name="dp_112">112dp</dimen>
+    <dimen name="dp_160">160dp</dimen>
+
+    <!--TextView Dimensions-->
+    <dimen name="text_35">35sp</dimen>
+    <dimen name="text_15">15sp</dimen>
+    <dimen name="radius_corner">15dp</dimen>
+    <dimen name="elevation">8dp</dimen>
+
+    <!-- TextView Dimensions -->
+
+    <dimen name="text_2">2sp</dimen>
+    <dimen name="text_4">4sp</dimen>
+    <dimen name="text_6">6sp</dimen>
+    <dimen name="text_8">8sp</dimen>
+    <dimen name="text_10">10sp</dimen>
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_22">22sp</dimen>
+    <dimen name="text_24">24sp</dimen>
+    <dimen name="text_26">26sp</dimen>
+    <dimen name="text_28">28sp</dimen>
+    <dimen name="text_30">30sp</dimen>
+    <dimen name="text_32">32sp</dimen>
+    <dimen name="text_34">34sp</dimen>
+    <dimen name="text_36">36sp</dimen>
+    <dimen name="text_38">38sp</dimen>
+    <dimen name="text_40">40sp</dimen>
+    <dimen name="text_42">42sp</dimen>
+    <dimen name="text_44">44sp</dimen>
+    <dimen name="text_46">46sp</dimen>
+    <dimen name="text_48">48sp</dimen>
+    <dimen name="text_50">50sp</dimen>
+
+
+
+
+    <!-- layout Margin Dimensions -->
+
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_14">14dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_18">18dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_22">22dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_26">26dp</dimen>
+    <dimen name="margin_28">28dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_34">34dp</dimen>
+    <dimen name="margin_36">36dp</dimen>
+    <dimen name="margin_38">38dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_42">42dp</dimen>
+    <dimen name="margin_44">44dp</dimen>
+    <dimen name="margin_46">46dp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+
+
+    <!-- layout Padding Dimensions -->
+
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_6">6dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_14">14dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_18">18dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_22">22dp</dimen>
+    <dimen name="padding_24">24dp</dimen>
+    <dimen name="padding_26">26dp</dimen>
+    <dimen name="padding_28">28dp</dimen>
+    <dimen name="padding_30">30dp</dimen>
+    <dimen name="padding_32">32dp</dimen>
+    <dimen name="padding_34">34dp</dimen>
+    <dimen name="padding_36">36dp</dimen>
+    <dimen name="padding_38">38dp</dimen>
+    <dimen name="padding_40">40dp</dimen>
+    <dimen name="padding_42">42dp</dimen>
+    <dimen name="padding_44">44dp</dimen>
+    <dimen name="padding_46">46dp</dimen>
+    <dimen name="padding_48">48dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+
+    <!-- Dp Dimensions -->
+
+    <dimen name="dp_2">2dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_14">14dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_18">18dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_22">22dp</dimen>
+    <dimen name="dp_24">24dp</dimen>
+    <dimen name="dp_26">26dp</dimen>
+    <dimen name="dp_28">28dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="dp_32">32dp</dimen>
+    <dimen name="dp_34">34dp</dimen>
+    <dimen name="dp_36">36dp</dimen>
+    <dimen name="dp_38">38dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_42">42dp</dimen>
+    <dimen name="dp_44">44dp</dimen>
+    <dimen name="dp_46">46dp</dimen>
+    <dimen name="dp_48">48dp</dimen>
+    <dimen name="dp_50">50dp</dimen>
+    <dimen name="circular_button_shadow_radius_dp">10dp</dimen>
+    <dimen name="pinview_height">40dp</dimen>
+    <dimen name="circular_button_width_dp">100dp</dimen>
+    <dimen name="circular_button_height_dp">100dp</dimen>
+    <dimen name="pin_width">32dp</dimen>
+    <dimen name="split_width">16dp</dimen>
+    <dimen name="logo_size">180dp</dimen>
+    <dimen name="ccp_width">100dp</dimen>
+    <dimen name="margin_80">80dp</dimen>
+    <dimen name="padding_64">64dp</dimen>
+
+    <dimen name="text_size_m">20sp</dimen>
+    <dimen name="text_size_s">16sp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="spacing">16dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_xlarge">24dp</dimen>
+    <dimen name="spacing_xsmall">4dp</dimen>
+
+</resources>
