@@ -3,6 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/drawable/bg_card.xml" value="0.19010416666666666" />
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/drawable/bg_gradient.xml" value="0.19010416666666666" />
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/drawable/custom_rectangle.xml" value="0.19010416666666666" />
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/drawable/ic_arrow.xml" value="0.19010416666666666" />
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/drawable/ic_back.xml" value="0.19010416666666666" />
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/drawable/ic_left_arrow.xml" value="0.19010416666666666" />
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/drawable/ic_logout.xml" value="0.19010416666666666" />
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/drawable/ic_quote.xml" value="0.19010416666666666" />
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/drawable/ic_share.xml" value="0.19010416666666666" />
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/layout/activity_dash_board.xml" value="0.17395833333333333" />
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/layout/activity_login.xml" value="0.1609375" />
+        <entry key="..\:/Mukesh_Project/KotlinDemo/app/src/main/res/layout/activity_quote.xml" value="0.17395833333333333" />
         <entry key="..\:/kotlin/KotlinDemo/app/src/main/res/drawable/bg_edit_text.xml" value="0.22135416666666666" />
         <entry key="..\:/kotlin/KotlinDemo/app/src/main/res/drawable/ic_facebook.xml" value="0.3072916666666667" />
         <entry key="..\:/kotlin/KotlinDemo/app/src/main/res/drawable/ic_google.xml" value="0.3072916666666667" />
@@ -15,7 +27,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

@@ -33,6 +33,13 @@ android {
     dataBinding {
         enabled = true
     }
+    sourceSets {
+        main {
+            assets {
+                srcDirs 'src\\main\\assets'
+            }
+        }
+    }
 }
 
 dependencies {
@@ -48,4 +55,7 @@ dependencies {
     implementation 'com.hbb20:ccp:2.5.4'
     implementation 'com.mikhaellopez:circularimageview:4.2.0'
     implementation 'com.loopeer.lib:shadow:0.0.4-beta3'
+    def lifecycle_version = "2.2.0"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
+    implementation 'com.google.code.gson:gson:2.8.6'
 }
